@@ -1,5 +1,6 @@
 Objective
-Design, build, and test a full-stack Sweet Shop Management System. This project demonstrates skills in API development, database management, frontend implementation, testing, and modern workflows with AI-assisted coding.
+Design, build, and test a full-stack Sweet Shop Management System. 
+This project demonstrates skills in API development, database management, frontend implementation, testing, and modern workflows with AI-assisted coding.
 
 Core Requirements
 Backend API
